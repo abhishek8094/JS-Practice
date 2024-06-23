@@ -1,4 +1,4 @@
-//check the property exists in object 
+//check the property exists in object ?
 
 var person = {
     name: "Abhishek",
@@ -15,3 +15,4 @@ console.log(person.hasownProperty("city"));
 
 //comparing the undefined
 console.log(person.city !== undefined);
+console.log(person.state !== undefined);
